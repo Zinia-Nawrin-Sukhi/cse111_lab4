@@ -1,0 +1,73 @@
+
+Conversation opened. 1 read message.
+
+Skip to content
+Using Gmail with screen readers
+3 of 125
+Fwd: get set neme
+Inbox
+ x
+Tonny Saha
+ 
+AttachmentsFeb 7, 2019, 10:40 PM (4 days ago)
+ 
+to me
+
+
+---------- Forwarded message ---------
+From: Tonny Saha <tonnysaha15@gmail.com>
+Date: Thu, Feb 7, 2019 at 10:03 PM
+Subject: get set neme
+To: tuba islam <tubaislam19@gmail.com>
+
+
+apu dekho to thik ase kina??
+
+2 Attachments
+ 
+ 
+ 
+
+public class Student
+{
+    String name;
+    String id;
+    String adress;
+    Double cgpa;
+    public void setName(String n)
+    {
+        name=n;
+    }
+    public String getName()
+    {
+        return name;
+    }
+    public void setId(String i)
+    {
+        id=i;
+    }
+    public String getId()
+    {
+        return id;
+    }
+    public void setAdress(String a)
+    {
+        adress=a;
+    }
+    public String getAdress()
+    {
+        return adress;
+    }
+    public void setCgpa(Double c)
+    {
+        cgpa=c;
+    }
+    public double getCgpa()
+    {
+        return cgpa;
+    }
+}
+
+
+Student.java
+Displaying studentTester.java.

@@ -1,0 +1,46 @@
+8 Apr 2019 21:50:35 GMT: Log 'EclipseCompiler.txt' opened: 8 Apr 2019 21:50:35 GMT with name E:\cse111\lab code\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\LAB-4,ZINIA NAWRIN SUKHI,ID-18301193\EclipseCompiler.txt
+8 Apr 2019 22:52:21 GMT: diagnostics = javax.tools.DiagnosticCollector@f47352
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b8aabe
+fileObjects = [E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\Car.java, E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\ComplexNumber.java, E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\complexTester.java, E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\CSE111Student.java, E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\CSEStudent.java, E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\Fruit.java, E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\Mango.java, E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\TestCars.java]
+8 Apr 2019 22:52:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e6977f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+8 Apr 2019 22:52:23 GMT: Compiler call returned
+8 Apr 2019 22:52:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d5858f
+8 Apr 2019 22:52:23 GMT:  Kind = ERROR
+8 Apr 2019 22:52:23 GMT: Name = E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\Car.java LineNo = 24 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+8 Apr 2019 22:52:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d934f8
+8 Apr 2019 22:52:23 GMT:  Kind = ERROR
+8 Apr 2019 22:52:23 GMT: Name = E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\ComplexNumber.java LineNo = 1 ColNo = 29 Msg = 'RealNumber cannot be resolved to a type'
+8 Apr 2019 22:52:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@927b1
+8 Apr 2019 22:52:23 GMT:  Kind = ERROR
+8 Apr 2019 22:52:23 GMT: Name = E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\Car.java LineNo = 5 ColNo = 10 Msg = 'Year cannot be resolved or is not a field'
+8 Apr 2019 22:52:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c66977
+8 Apr 2019 22:52:23 GMT:  Kind = ERROR
+8 Apr 2019 22:52:23 GMT: Name = E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\ComplexNumber.java LineNo = 12 ColNo = 37 Msg = 'The method getRealValue() is undefined for the type ComplexNumber'
+8 Apr 2019 22:52:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@402253
+8 Apr 2019 22:52:23 GMT:  Kind = ERROR
+8 Apr 2019 22:52:23 GMT: Name = E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\complexTester.java LineNo = 3 ColNo = 9 Msg = 'RealNumber cannot be resolved to a type'
+8 Apr 2019 22:52:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ea357
+8 Apr 2019 22:52:23 GMT:  Kind = ERROR
+8 Apr 2019 22:52:23 GMT: Name = E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\TestCars.java LineNo = 3 ColNo = 36 Msg = 'The method getYear() is undefined for the type Car'
+8 Apr 2019 22:52:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a33d40
+8 Apr 2019 22:52:23 GMT:  Kind = ERROR
+8 Apr 2019 22:52:23 GMT: Name = E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\TestCars.java LineNo = 7 ColNo = 50 Msg = 'Cannot make a static reference to the non-static method getObjectCount() from the type Car'
+8 Apr 2019 22:52:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1227fd2
+8 Apr 2019 22:52:23 GMT:  Kind = ERROR
+8 Apr 2019 22:52:23 GMT: Name = E:\cse111\lab code\LAB-8,ZINIA NAWRIN,ID-18301193\TestCars.java LineNo = 16 ColNo = 50 Msg = 'Cannot make a static reference to the non-static method getObjectCount() from the type Car'
+8 Apr 2019 22:55:14 GMT: diagnostics = javax.tools.DiagnosticCollector@1bfae7a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a85f8a
+fileObjects = [E:\cse111\LAB-8,ZINIA NAWRIN,ID-18301193\New Folder (2)\Car.java, E:\cse111\LAB-8,ZINIA NAWRIN,ID-18301193\New Folder (2)\TestCars.java]
+8 Apr 2019 22:55:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1eef372' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-8,ZINIA NAWRIN,ID-18301193\New Folder (2);C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+8 Apr 2019 22:55:14 GMT: Compiler call returned
+8 Apr 2019 22:55:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b89ffe
+8 Apr 2019 22:55:14 GMT:  Kind = WARNING
+8 Apr 2019 22:55:14 GMT: Name = E:\cse111\LAB-8,ZINIA NAWRIN,ID-18301193\New Folder (2)\TestCars.java LineNo = 4 ColNo = 50 Msg = 'The static method getObjectCount() from the type Car should be accessed in a static way'
+8 Apr 2019 22:55:24 GMT: diagnostics = javax.tools.DiagnosticCollector@94dcbb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9f6dc4
+fileObjects = [E:\cse111\LAB-8,ZINIA NAWRIN,ID-18301193\New Folder (2)\Car.java, E:\cse111\LAB-8,ZINIA NAWRIN,ID-18301193\New Folder (2)\TestCars.java]
+8 Apr 2019 22:55:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@795a99' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-8,ZINIA NAWRIN,ID-18301193\New Folder (2);C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+8 Apr 2019 22:55:24 GMT: Compiler call returned
+8 Apr 2019 22:55:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5edacc
+8 Apr 2019 22:55:24 GMT:  Kind = WARNING
+8 Apr 2019 22:55:24 GMT: Name = E:\cse111\LAB-8,ZINIA NAWRIN,ID-18301193\New Folder (2)\TestCars.java LineNo = 4 ColNo = 50 Msg = 'The static method getObjectCount() from the type Car should be accessed in a static way'

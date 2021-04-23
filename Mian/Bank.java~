@@ -1,0 +1,40 @@
+public class Bank
+{
+  String name;
+  String address;
+  int Id;
+  Double Balance;
+    public void setName(String n)
+    {
+        name=n;
+    }
+    public String getName()
+    {
+        return name;
+    }
+    public void setId(String i)
+    {
+        id=i;
+    }
+    public String getId()
+    {
+        return id;
+    }
+    public void setAdress(String a)
+    {
+        adress=a;
+    }
+    public String getAdress()
+    {
+        return adress;
+    }
+    public void setBalanace(Double B)
+    {
+        Balance=B;
+    }
+    public double getBalance()
+    {
+        return Balance;
+    }
+}
+}
