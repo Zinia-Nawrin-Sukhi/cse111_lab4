@@ -1,0 +1,28 @@
+public class Cat{ 
+public String color; 
+public String action ;
+
+public Cat(){
+}
+public Cat(String c){
+ color=c; 
+}
+public Cat(String c,String a){
+  color=c;
+  action=a;
+}
+public void changeColor(String v){
+  color=v;
+}
+
+
+
+
+
+
+
+
+
+
+}
+

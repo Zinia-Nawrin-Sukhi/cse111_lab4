@@ -1,0 +1,25 @@
+public class circle{
+ Double radius;
+ String color;
+private void setRadius(
+
+public circle(){
+}
+public circle(Double r){
+  radius=r;
+}
+void setRadius(Double r){
+ radius=r;
+ 
+}
+void Double getRadius(){
+  return radius;
+}
+void setArea(Double a){
+ area=a;
+ 
+}
+void String getArea(){
+  return Area;
+}
+}

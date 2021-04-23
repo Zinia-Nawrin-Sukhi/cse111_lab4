@@ -1,0 +1,8 @@
+public class Q1{
+  public static void main(String[]agrs){
+
+
+FinalT5A fT5A = new FinalT5A();
+fT5A.methodA();
+  }
+}

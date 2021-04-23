@@ -1,0 +1,26 @@
+public class Player{
+private String name = "Default";
+private int number = 0;  
+private String team = "Default"; 
+public String Name;
+public String Team;
+public int Number;
+public void setName(String n){
+  n=Name;
+}
+public getName(){
+  return Name;
+}
+public void setTeam(String t){
+  t=Team;
+}
+public getTeam(){
+  return Team;
+}
+public void setNumber(int p){
+  p=Number;
+}
+public void detail(){
+ System.out.println(Name+"*is*no"+Number+"*for*"+Team); 
+}
+
